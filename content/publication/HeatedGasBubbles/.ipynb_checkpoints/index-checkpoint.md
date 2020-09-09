@@ -30,8 +30,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Chemistry"
-publication_short: "NatChem"
+publication: ""
+publication_short: ""
 
 abstract: Non-equilibrium conditions must have been crucial for the assembly of the first informational polymers of early life, by supporting their formation and continuous enrichment in a long-lasting environment. Here, we explore how gas bubbles in water subjected to a thermal gradient, a likely scenario within crustal mafic rocks on the early Earth, drive a complex, continuous enrichment of prebiotic molecules. RNA precursors, monomers, active ribozymes, oligonucleotides and lipids are shown to (1) cycle between dry and wet states, enabling the central step of RNA phosphorylation, (2) accumulate at the gas–water interface to drastically increase ribozymatic activity, (3) condense into hydrogels, (4) form pure crystals and (5) encapsulate into protecting vesicle aggregates that subsequently undergo fission. These effects occur within less than 30 min. The findings unite, in one location, the physical conditions that were crucial for the chemical emergence of biopolymers. They suggest that heated microbubbles could have hosted the first cycles of molecular evolution.
 
