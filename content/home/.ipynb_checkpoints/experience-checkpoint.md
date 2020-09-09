@@ -28,12 +28,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visiting Researcher"
+  company = "Braun Lab, LMU Munich"
   company_url = ""
-  location = "California"
+  location = "Munich, Germany"
   date_start = "2015-09-01"
   date_end = "2016-07-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Funded by U.S. Fulbright Scholar program."""
 
 +++
