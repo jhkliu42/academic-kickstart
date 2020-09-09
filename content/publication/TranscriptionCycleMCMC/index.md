@@ -1,15 +1,14 @@
 ---
-title: "Quantitative characterization of the eukaryotic transcription cycle using live imaging and statistical inference"
+title: "Quantitative dissection of transcription in development yields evidence for transcription factor-driven chromatin accessibility"
 authors:
-- Jonathan Liu
-- Donald Hansen
-- Elizabeth Eck
-- Yang Joon Kim
-- Meghan Turner
-- Simon Alamos
+- Elizabeth Eck*
+- Jonathan Liu*
+- Maryam Kazemzadeh-Atoufi
+- Sydney Ghoreishi
+- Shelby Blythe
 - Hernan Garcia
-date: "2020-08-31T00:00:00Z"
-doi: "https://doi.org/10.1101/2020.08.29.273474"
+date: "2020-01-27T00:00:00Z"
+doi: "https://doi.org/10.1101/2020.01.27.922054"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -24,7 +23,7 @@ publication_types: ["3"]
 publication: "bioRxiv"
 publication_short: ""
 
-abstract: The eukaryotic transcription cycle consists of three main steps: initiation, elongation, and cleavage of the nascent RNA transcript. Although each of these steps can be regulated as well as coupled with each other, their in vivo dissection has remained challenging because available experimental readouts lack sufficient spatiotemporal resolution to separate the contributions from each of these steps. Here, we describe a novel computational technique to simultaneously infer the effective parameters of the transcription cycle in real time and at the single-cell level using a two-color MS2/PP7 reporter gene and the developing fruit fly embryo as a case study. Our method enables detailed investigations into cell-to-cell variability in transcription-cycle parameters with high precision. These measurements, combined with theoretical modeling, reveal a significant variability in the elongation rate of individual RNA polymerase molecules. We further illustrate the power of this technique by uncovering a novel mechanistic connection between RNA polymerase density and nascent RNA cleavage efficiency. Thus, our approach makes it possible to shed light on the regulatory mechanisms in play during each step of the transcription cycle in individual, living cells at high spatiotemporal resolution.
+abstract: Thermodynamic models of gene regulation can predict transcriptional regulation in bacteria, but in eukaryotes chromatin accessibility and energy expenditure may call for a different framework. Here we systematically tested the predictive power of models of DNA accessibility based on the Monod-Wyman-Changeux (MWC) model of allostery, which posits that chromatin fluctuates between accessible and inaccessible states. We dissected the regulatory dynamics of hunchback by the activator Bicoid and the pioneer-like transcription factor Zelda in living Drosophila embryos and showed that no thermodynamic or non-equilibrium MWC model can recapitulate hunchback transcription. Therefore, we explored a model where DNA accessibility is not the result of thermal fluctuations but is catalyzed by Bicoid and Zelda, possibly through histone acetylation, and found that this model can predict hunchback dynamics. Thus, our theory-experiment dialogue uncovered potential molecular mechanisms of transcriptional regulatory dynamics, a key step toward reaching a predictive understanding of developmental decision-making. (*These authors contributed equally)
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -36,7 +35,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.29.273474v2
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.01.27.922054v3
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
