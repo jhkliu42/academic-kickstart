@@ -35,5 +35,14 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2016-07-01"
   description = """Funded by U.S. Fulbright Scholar program."""
+  
+[[experience]]
+  title = "B.S. Applied Physics"
+  company = "Caltech"
+  company_url = ""
+  location = "Pasadena, California"
+  date_start = "2011-09-01"
+  date_end = "2015-06-01"
+  description = """Graduated with honors."""
 
 +++
