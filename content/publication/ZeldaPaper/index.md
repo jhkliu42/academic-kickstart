@@ -2,7 +2,7 @@
 title: "Quantitative dissection of transcription in development yields evidence for transcription factor-driven chromatin accessibility"
 authors:
 - Elizabeth Eck*
-- Jonathan Liu*
+- admin*
 - Maryam Kazemzadeh-Atoufi
 - Sydney Ghoreishi
 - Shelby Blythe
