@@ -8,7 +8,7 @@ authors:
 - Shelby Blythe
 - Hernan Garcia
 date: "2020-01-27T00:00:00Z"
-doi: "https://doi.org/10.1101/2020.01.27.922054"
+doi: "10.1101/2020.01.27.922054"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
