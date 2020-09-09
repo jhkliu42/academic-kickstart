@@ -1,5 +1,5 @@
 ---
-title: Nonequilibrium Processes in Transcriptional Regulation and Chromatin Accessibility
+title: Statistical Inference of Transcription Cycle Parameters
 summary:
 tags:
 
@@ -26,4 +26,4 @@ url_video: ""
 slides: example
 ---
 
-With Elizabeth Eck at UC Berkeley, I am studying signatures of nonequilibrium behavior in transcription initiation and chromatin accessibility. Specifically, we investigated the applicability of the Monod-Wyman-Changeux (MWC) model of chromatin accessibility, a popular class of models of transcriptional regulation, in the context of the hunchback gene in the fruit fly. Under the lens of the MWC model, hunchback is regulated by the transcription factors Bicoid and Zelda, which passively push the equilibrium state of chromatin from an inaccessible state to an accessible state. Surprisingly, we found that the resulting dynamics of transcriptional onset could not be described by an equilibrium MWC model, or indeed even a nonequilibrium MWC model. This led us to propose an alternate nonequilibrium transcription factor-driven model, where Bicoid and Zelda, instead of regulating an equilibrium configuration of chromatin, actively drive a series of transitions of chromatin through intermediary, transcriptionally silent states, before resulting in transcriptional onset.
+With live imaging tools such as MS2 or PP7, we can now image transcription at single-cell resolution in living organisms. However, these technologies yield large datasets that possess complex features both in space and in time. While heuristic analyses of live imaging measurements are common, the raw signals inside these datasets often possess much more information. Here, I used Markov Chain Monte Carlo (MCMC) to develop a statistical inference tool to extract effective transcription cycle parameters - mRNA initiation, elongation, and cleavage - from live imaging datasets. This method allows for quantitative estimation of kinetic processes involved in transcription at single-cell resolution, bridging the gap between raw experimental data and theoretical investigations that rely on statistics of biophysical parameters.
