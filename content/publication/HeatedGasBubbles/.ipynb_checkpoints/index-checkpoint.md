@@ -1,7 +1,6 @@
 ---
 title: "Heated gas bubbles enrich, crystallize, dry, phosphorylate and encapsulate prebiotic molecules"
 authors:
-Matthias Morasch, Jonathan Liu, Christina F. Dirscherl, Alan Ianeselli, Alexandra Kühnlein, Kristian Le Vay, Philipp Schwintek, Saidul Islam, Mérina K. Corpinot, Bettina Scheu, Donald B. Dingwell, Petra Schwille, Hannes Mutschler, Matthew W. Powner, Christof B. Mast & Dieter Braun 
 - Matthias Morasch
 - Jonathan Liu
 - Christina F. Dirscherl
