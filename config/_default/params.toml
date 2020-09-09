@@ -203,6 +203,7 @@ plugins_js  = []
   #   3: Card
   #   4: Citation (publications only)
   post_view = 3
+  project_view = 3
   publication_view = 1
   talk_view = 2
 
