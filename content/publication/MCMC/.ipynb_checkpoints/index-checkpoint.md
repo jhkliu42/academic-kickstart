@@ -1,5 +1,5 @@
 ---
-title: "Quantitative characterization of the eukaryotic transcription cycle using live imaging and statistical inference"
+title: "Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference"
 authors:
 - Jonathan Liu
 - Donald Hansen
@@ -36,7 +36,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.29.273474v2
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
