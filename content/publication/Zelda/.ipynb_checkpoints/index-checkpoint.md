@@ -7,8 +7,8 @@ authors:
 - Sydney Ghoreishi
 - Shelby Blythe
 - Hernan Garcia
-date: "2020-01-27T00:00:00Z"
-doi: "10.1101/2020.01.27.922054"
+date: "2020-10-19T00:00:00Z"
+doi: "10.7554/eLife.56429"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "eLife"
 publication_short: ""
 
 abstract: Thermodynamic models of gene regulation can predict transcriptional regulation in bacteria, but in eukaryotes chromatin accessibility and energy expenditure may call for a different framework. Here we systematically tested the predictive power of models of DNA accessibility based on the Monod-Wyman-Changeux (MWC) model of allostery, which posits that chromatin fluctuates between accessible and inaccessible states. We dissected the regulatory dynamics of hunchback by the activator Bicoid and the pioneer-like transcription factor Zelda in living Drosophila embryos and showed that no thermodynamic or non-equilibrium MWC model can recapitulate hunchback transcription. Therefore, we explored a model where DNA accessibility is not the result of thermal fluctuations but is catalyzed by Bicoid and Zelda, possibly through histone acetylation, and found that this model can predict hunchback dynamics. Thus, our theory-experiment dialogue uncovered potential molecular mechanisms of transcriptional regulatory dynamics, a key step toward reaching a predictive understanding of developmental decision-making. (*These authors contributed equally)
@@ -35,7 +35,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.01.27.922054v3
+url_pdf: https://elifesciences.org/articles/56429
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
