@@ -79,6 +79,9 @@ Outside of research, I am deeply committed to science communication and communit
 Beyond my scientific life, I am an active collaborative {{% staticref "piano/" "newtab" %}}pianist{{% /staticref %}} in the Bay Area affiliated with the UC Berkeley Chamber Chorus. In my free time I enjoy reading speculative fiction, running, and cooking.
 
 **Contact**
+
 jhkliu42 at gmail dot com
+
 Twitter: {{% staticref "https://twitter.com/jhliu42" "newtab" %}}@jhliu42{{% /staticref %}}
+
 LinkedIn: {{% staticref "https://www.linkedin.com/in/jonathan-liu-b004103b/" "newtab" %}}in/jonathan-liu-b004103b/{{% /staticref %}}
