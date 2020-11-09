@@ -77,3 +77,8 @@ After getting my undergraduate degree from Caltech, I spent a year working in or
 Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the {{% staticref "http://berkeleysciencereview.com/" "newtab" %}}Berkeley Science Review{{% /staticref %}}. For the past few years, I have also been involved with industry-academia connections, serving on the team of {{% staticref "https://beyondacademia.berkeley.edu/" "newtab" %}}Beyond Academia{{% /staticref %}}, a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year. Please get in touch if you're interested in chatting about this!
 
 Beyond my scientific life, I am an active collaborative {{% staticref "piano/" "newtab" %}}pianist{{% /staticref %}} in the Bay Area affiliated with the UC Berkeley Chamber Chorus. In my free time I enjoy reading speculative fiction, running, and cooking.
+
+**Contact**
+jhkliu42 at gmail dot com
+Twitter: {{% staticref "https://twitter.com/jhliu42" "newtab" %}}@jhliu42{{% /staticref %}}
+LinkedIn: {{% staticref "https://www.linkedin.com/in/jonathan-liu-b004103b/" "newtab" %}}in/jonathan-liu-b004103b/{{% /staticref %}}

@@ -20,4 +20,4 @@ Since moving to Berkeley, he has regularly accompanied solo and ensemble perform
 
 In addition to playing piano, he is also an experienced choral baritone, having sung with the Munich International Choir, the Bay Area Classical Harmonies, and the Berkeley City Symphony. As a singer, he has worked with conductors including Magen Solomon, Marika Kuzma, Ken-David Masur, and Christian Reif. He currently sings with the UC Berkeley Chamber Chorus, under the direction of Wei Cheng, and studies with Christine Brandes.
 
-Please contact at jhliu42 at berkeley dot edu for performance-related inquiries.
+Please contact at jhkliu42 at gmail dot edu for performance-related inquiries.
