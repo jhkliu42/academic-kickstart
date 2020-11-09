@@ -17,21 +17,11 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+__Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2020) [Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference.](https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3) *bioRxiv*.
 
-Welcome to the demo of the **resumé template** for Academic.
+Elizabeth Eck\*, __Jonathan Liu\*__, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi, Shelby Blythe, Hernan G Garcia. (2020) [Quantitative dissection of transcription in development yields evidence for transcription factor-driven chromatin accessibility](https://elifesciences.org/articles/56429) *eLife* 2020;9:e56429. (\*equal contribution)
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
-
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+Matthias Morasch, __Jonathan Liu__, Christina F Dirscherl, Alan Ianeselli, Alexandra Kühnlein, Kristian Le Vay, Philipp Schwintek, Saidul Islam, Mérina K Corpinot, Bettina Scheu, Donald B Dingwell, Petra Schwille, Hannes Mutschler, Matthew W Powner, Christof B Mast, Dieter Braun. (2019) [Heated gas bubbles enrich, crystallize, dry, phosphorylate and encapsulate prebiotic molecules](https://www.nature.com/articles/s41557-019-0299-5) *Nature Chemistry* 11:779–788
