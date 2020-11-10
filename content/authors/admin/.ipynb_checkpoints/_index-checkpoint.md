@@ -74,14 +74,14 @@ I am a PhD student in the physics department at UC Berkeley studying the biophys
 
 After getting my undergraduate degree from Caltech, I spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. I’m currently in my fifth year at Berkeley and am working with [Hernan Garcia](https://mcb.berkeley.edu/labs/garcia/) in studying nonequilibrium processes in gene regulatory networks, in the context of developmental biology. Check out my CV [here](files/cv.pdf).
 
-Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the {{% staticref "http://berkeleysciencereview.com/" "newtab" %}}Berkeley Science Review{{% /staticref %}}. For the past few years, I have also been involved with industry-academia connections, serving on the team of {{% staticref "https://beyondacademia.berkeley.edu/" "newtab" %}}Beyond Academia{{% /staticref %}}, a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year. Please get in touch if you're interested in chatting about this!
+Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the [Berkeley Science Review](http://berkeleysciencereview.com/). For the past few years, I have also been involved with industry-academia connections, serving on the team of [Beyond Academia](https://beyondacademia.berkeley.edu/), a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year. Please get in touch if you're interested in chatting about this!
 
-Beyond my scientific life, I am an active collaborative {{% staticref "piano/" "newtab" %}}pianist{{% /staticref %}} in the Bay Area affiliated with the UC Berkeley Chamber Chorus. In my free time I enjoy reading speculative fiction, running, and cooking.
+Beyond my scientific life, I am an active [collaborative pianist](piano/) in the Bay Area affiliated with the UC Berkeley Chamber Chorus. In my free time I enjoy reading speculative fiction, running, and cooking.
 
 **Contact**
 
 jhkliu42 at gmail dot com
 
-Twitter: {{% staticref "https://twitter.com/jhliu42" "newtab" %}}@jhliu42{{% /staticref %}}
+Twitter: [@jhliu42](https://twitter.com/jhliu42)
 
-LinkedIn: {{% staticref "https://www.linkedin.com/in/jonathan-liu-b004103b/" "newtab" %}}in/jonathan-liu-b004103b/{{% /staticref %}}
+LinkedIn: [in/jonathan-liu-b004103b/](https://www.linkedin.com/in/jonathan-liu-b004103b/)
