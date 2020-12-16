@@ -1,5 +1,5 @@
 ---
-title: The Ins and Outs of Informational Interviewing
+title: The ins and outs of informational interviewing
 summary:
 tags:
 

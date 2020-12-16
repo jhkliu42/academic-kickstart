@@ -1,5 +1,5 @@
 ---
-title: Why (Anti)Hydrogen Matters
+title: Why (anti)hydrogen matters
 summary:
 tags:
 
