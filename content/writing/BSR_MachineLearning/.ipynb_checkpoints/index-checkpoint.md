@@ -1,5 +1,5 @@
 ---
-title: MACHINE LEARNING - CHAPTER 3
+title: Machine Learning - Chapter 3
 summary: Using machine learning for particle physics
 tags:
 
