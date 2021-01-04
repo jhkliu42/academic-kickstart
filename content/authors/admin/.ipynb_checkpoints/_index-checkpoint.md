@@ -71,7 +71,9 @@ user_groups:
 # - Visitors
 ---
 
-I am a PhD student in the physics department at UC Berkeley studying the biophysics of gene regulatory networks. My research combines tools from synthetic biology, theoretical physics, and statistical inference to develop and investigate models of gene regulation. In particular, I've focused on developing statistical techniques and models to extract and quantify biophysical parameters from transcriptional data acquired through live cell imaging. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
+I am a PhD student in the physics department at UC Berkeley studying the biophysics of gene regulatory networks. My research combines tools from synthetic biology, theoretical physics, and statistical inference to develop and investigate models of gene regulation. In particular, I've focused on developing statistical techniques and models to extract and quantify biophysical parameters from transcriptional data acquired through live cell imaging. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment. 
+
+As of January 2021, I am currently seeking full-time opportunities related to computational biology / biological data science, aiming to start around late Spring or early Summer of 2021. Please don't hesitate to reach out if you want to chat!
 
 After getting my undergraduate degree from Caltech, I spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. I’m currently in my fifth year at Berkeley and am working with [Hernan Garcia](https://mcb.berkeley.edu/labs/garcia/) in studying nonequilibrium processes in gene regulatory networks, in the context of developmental biology. Check out my CV [here](files/cv.pdf).
 
