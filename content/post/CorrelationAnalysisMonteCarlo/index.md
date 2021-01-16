@@ -56,18 +56,11 @@ weight = weight + np.random.normal(0,10,N) #Let's add some scatter
 plt.figure()
 plt.scatter(height,weight)
 plt.xlabel('height (feet)')
-plt.ylabel('weight (lbs)')
+plt.ylabel('weight (lbs)');
 ```
 
 
-
-
-    Text(0, 0.5, 'weight (lbs)')
-
-
-
-
-![png](./index_3_1.png)
+![png](./index_3_0.png)
 
 
 Looking at the scatter plot, we would clearly conclude that height and weight are positively correlated. Although we generated this synthetic data with a linear relationship, let's be agnostic and measure the correlation with a non-parametric metric: the Spearman correlation coefficient.
@@ -81,7 +74,7 @@ rho,p = spearmanr(height,weight)
 print('Spearman correlation coefficient is ' + str(rho) + ' with p-value = ' + str(p))
 ```
 
-    Spearman correlation coefficient is 0.7085234093637454 with p-value = 8.587222711685343e-09
+    Spearman correlation coefficient is 0.6384153661464586 with p-value = 6.09988787595531e-07
 
 
 As expected, the Spearman correlation coefficient is around 0.7, indicating a  positive correlation. We also have a p-value that is extremely small, indicating the calculation is significant.
@@ -100,18 +93,11 @@ plt.figure()
 plt.errorbar(height,weight,yerr=y_err_high,marker='o',\
              ms=5,capsize=1,linestyle='')
 plt.xlabel('height (feet)')
-plt.ylabel('weight (lbs)')
+plt.ylabel('weight (lbs)');
 ```
 
 
-
-
-    Text(0, 0.5, 'weight (lbs)')
-
-
-
-
-![png](./index_8_1.png)
+![png](./index_8_0.png)
 
 
 Although our analysis on the mean measurements indicated a strong positive correlation, if we account for measurement error, we would clearly conclude that our measurements aren't good enough to detect anything significant. On the other hand, if our measurement error were small enough, then intuitively we would trust our correlation analysis. For example, if the error were smaller, then we could easily see a correlation, even by eye:
@@ -126,18 +112,11 @@ plt.figure()
 plt.errorbar(height,weight,yerr=y_err_low,marker='o',\
              ms=5,capsize=1,linestyle='')
 plt.xlabel('height (feet)')
-plt.ylabel('weight (lbs)')
+plt.ylabel('weight (lbs)');
 ```
 
 
-
-
-    Text(0, 0.5, 'weight (lbs)')
-
-
-
-
-![png](./index_10_1.png)
+![png](./index_10_0.png)
 
 
 ## Using Monte Carlo simulations to generate a distribution of correlation coefficients
@@ -178,23 +157,16 @@ plt.figure()
 plt.hist(p_sim,density=True)
 plt.xlabel('p-value')
 plt.ylabel('probability')
-plt.xlim((0,1))
+plt.xlim((0,1));
 
 ```
 
 
-
-
-    (0.0, 1.0)
-
+![png](./index_13_0.png)
 
 
 
 ![png](./index_13_1.png)
-
-
-
-![png](./index_13_2.png)
 
 
 Although the mean of the distribution of Spearman correlation coefficients is slightly positive, we see that the distribution is incredibly wide, taking both negative and positive values! So, due to the incredibly high amounts of measurement noise, our correlation analysis is completely bogus. That's even more confirmed by looking at the distribution of p-values, which is all over the place.
@@ -229,22 +201,15 @@ plt.figure()
 plt.hist(p_sim,density=True)
 plt.xlabel('p-value')
 plt.ylabel('probability')
-plt.xlim((0,0.1))
+plt.xlim((0,0.1));
 ```
 
 
-
-
-    (0.0, 0.1)
-
+![png](./index_16_0.png)
 
 
 
 ![png](./index_16_1.png)
-
-
-
-![png](./index_16_2.png)
 
 
 In this case, the distribution of Spearman correlation coefficients is much more constrained to positive values, and the associated p-values are also significant. More importantly, we have a sense of how uncertain our correlation coefficient is. By taking the standard deviation of the distribution, we can succintly report the mean and uncertainty of our analysis:
@@ -255,5 +220,10 @@ print('Spearman correlation coefficient is ' + str(np.mean(rho_sim)) + ' +/- ' \
      + str(np.std(rho_sim)))
 ```
 
-    Spearman correlation coefficient is 0.5974073757503001 +/- 0.06584519864718974
+    Spearman correlation coefficient is 0.5194158175270107 +/- 0.06888236884438972
 
+
+
+```python
+
+```
