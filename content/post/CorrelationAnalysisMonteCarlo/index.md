@@ -223,7 +223,4 @@ print('Spearman correlation coefficient is ' + str(np.mean(rho_sim)) + ' +/- ' \
     Spearman correlation coefficient is 0.5194158175270107 +/- 0.06888236884438972
 
 
-
-```python
-
-```
+By the way, this method can be used for other metrics besides the Spearman. There are also extensions or modifications, such as being combined with bootstrapping. For further reading, check out this paper by Peter A. Curran (https://arxiv.org/pdf/1411.3816.pdf)
