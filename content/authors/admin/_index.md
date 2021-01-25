@@ -70,7 +70,7 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-*As of January 2021, I am currently seeking full-time opportunities related to computational biology or biological data science, aiming to start around late Spring or early Summer of 2021. Please don't hesitate to reach out if you want to chat!*
+*As of January 2021, I am currently seeking full-time opportunities related to computational biology or biological data science, aiming to start around Jun-Aug of 2021. Please don't hesitate to reach out if you want to chat!*
 
 I am a PhD student in the physics department at UC Berkeley studying the biophysics of gene regulatory networks. My research combines tools from synthetic biology, theoretical physics, and statistical inference to develop and investigate models of gene regulation. In particular, I've focused on developing statistical techniques and models to extract and quantify biophysical parameters from transcriptional data acquired through live cell imaging. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment. 
 
