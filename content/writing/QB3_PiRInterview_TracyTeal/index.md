@@ -1,5 +1,5 @@
 ---
-title: An interview with Professional in Residence Tracy Teal - harnessing community to support scientific research
+title: An interview with QB3 Professional in Residence Tracy Teal - harnessing community to support scientific research
 summary:
 tags:
 
