@@ -20,7 +20,7 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-__Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2020) [Single-cell characterization of the eukaryotic transcription cycle using live imaging and statistical inference.](https://www.biorxiv.org/content/10.1101/2020.08.29.273474v3) *bioRxiv*.
+__Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2020) [Real-time single-cell characterization of the eukaryotic transcription cycle reveals correlations between RNA initiation, elongation, and cleavage.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008999) *PLoS Computational Biology*.
 
 Elizabeth Eck\*, __Jonathan Liu\*__, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi, Shelby Blythe, Hernan G Garcia. (2020) [Quantitative dissection of transcription in development yields evidence for transcription factor-driven chromatin accessibility](https://elifesciences.org/articles/56429) *eLife* 2020;9:e56429. (\*equal contribution)
 
