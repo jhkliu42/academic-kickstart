@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Berkeley, California"
   date_start = "2016-08-01"
-  date_end = ""
+  date_end = "2021-07-01"
   description = """Funded by Department of Defense NDSEG fellowship.
   """
 

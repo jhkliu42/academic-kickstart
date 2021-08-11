@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data scientist, computational biology
+role: Data Scientist, Computational Biology
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,9 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a computational biologist in the data science team at the Chan-Zuckerberg Biohub. At the moment I'm working on developing a spatial transcriptomics platform for investigating mammalian and human tissue samples, in conjunction with other biomedical research efforts at the Biohub. Prior to the Biohub, I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment. 
+I am a computational biologist in the data science team at the Chan-Zuckerberg Biohub. At the moment I'm working on developing a spatial transcriptomics platform for investigating mammalian and human tissue samples, in conjunction with other biomedical research efforts at the Biohub. 
+
+Prior to the Biohub, I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment. 
 
 Check out my CV [here](files/cv.pdf), as well as my resume [here](files/resume.pdf).
 
