@@ -18,13 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data Scientist, Computational Biology"
+  company = "Chan-Zuckerberg Biohub"
+  company_url = ""
+  location = "San Francisco, California"
+  date_start = "2021-08-16"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
   title = "Graduate Student Researcher"
   company = "Garcia Lab, UC Berkeley"
   company_url = ""
   location = "Berkeley, California"
   date_start = "2016-08-01"
   date_end = ""
-  description = """Funded by NDSEG fellowship.
+  description = """Funded by Department of Defense NDSEG fellowship.
   """
 
 [[experience]]
@@ -35,14 +45,5 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2016-07-01"
   description = """Funded by U.S. Fulbright Scholar program."""
-  
-[[experience]]
-  title = "B.S. Applied Physics"
-  company = "Caltech"
-  company_url = ""
-  location = "Pasadena, California"
-  date_start = "2011-09-01"
-  date_end = "2015-06-01"
-  description = """Graduated with honors."""
 
 +++
