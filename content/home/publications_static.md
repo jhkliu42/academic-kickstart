@@ -20,6 +20,8 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+__Jonathan Liu\*__, Vanessa Tran*, Venkata Naga Pranathi Vemuri, Ashley Byrne, Michael Borja, Snigdha Agarwal, Ruofan Wang, Kyle Awayan, Abhishek Murti, Aris Taychameekiatchai, Bruce Wang, George Emanuel, Jiang He, John Haliburton, Angela Oliveira Pisco, Norma Neff. (2021) [Comparative analysis of MERFISH spatial transcriptomics with bulk and single-cell RNA sequencing.](https://www.biorxiv.org/content/10.1101/2022.03.04.483068) *bioRxiv*. (\*equal contribution)
+
 __Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2021) [Real-time single-cell characterization of the eukaryotic transcription cycle reveals correlations between RNA initiation, elongation, and cleavage.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008999) *PLoS Computational Biology*.
 
 Elizabeth Eck\*, __Jonathan Liu\*__, Maryam Kazemzadeh-Atoufi, Sydney Ghoreishi, Shelby Blythe, Hernan G Garcia. (2020) [Quantitative dissection of transcription in development yields evidence for transcription factor-driven chromatin accessibility](https://elifesciences.org/articles/56429) *eLife* 2020;9:e56429. (\*equal contribution)
