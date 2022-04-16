@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jhliu42@berkeley.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jonathan.liu@czbiohub.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jhliu42
@@ -71,11 +71,11 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a computational biologist in the data science team at the Chan-Zuckerberg Biohub. At the moment I'm working on developing a spatial transcriptomics platform within the Biohub in conjunction with other biomedical research efforts.
+I am a computational biologist in the data science team at the [Chan-Zuckerberg Biohub](https://www.czbiohub.org/). There I use single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My current focus is on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo. My broad research interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific instrumentation.
 
-Prior to the Biohub, I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
+Before coming to the Biohub, I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
 
-Check out my CV [here](files/cv.pdf), as well as my resume [here](files/resume.pdf).
+Check out my CV [here](files/cv.pdf) as well as my resume [here](files/resume.pdf). Please feel free to reach out if you'd like to connect or chat.
 
 Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the [Berkeley Science Review](http://berkeleysciencereview.com/). For the past few years, I have also been involved with industry-academia connections, serving on the team of [Beyond Academia](https://beyondacademia.berkeley.edu/), a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year. Please get in touch if you're interested in chatting about this!
 
