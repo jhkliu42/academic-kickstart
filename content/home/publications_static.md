@@ -20,7 +20,11 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
-__Jonathan Liu\*__, Vanessa Tran*, Venkata Naga Pranathi Vemuri, Ashley Byrne, Michael Borja, Snigdha Agarwal, Ruofan Wang, Kyle Awayan, Abhishek Murti, Aris Taychameekiatchai, Bruce Wang, George Emanuel, Jiang He, John Haliburton, Angela Oliveira Pisco, Norma Neff. (2022) [Comparative analysis of MERFISH spatial transcriptomics with bulk and single-cell RNA sequencing.](https://www.biorxiv.org/content/10.1101/2022.03.04.483068) *bioRxiv*. (\*equal contribution)
+__Jonathan Liu\*__, Vanessa Tran*, Venkata Naga Pranathi Vemuri, Ashley Byrne, Michael Borja, Yang Joon Kim, Snigdha Agarwal, Ruofan Wang, Kyle Awayan, Abhishek Murti, Aris Taychameekiatchai, Bruce Wang, George Emanuel, Jiang He, John Haliburton, Angela Oliveira Pisco, Norma Neff. (2022) [Concordance of MERFISH spatial transcriptomics with bulk and single-cell RNA sequencing.](https://www.life-science-alliance.org/content/6/1/e202201701) *Life Science Alliance*. (\*equal contribution)
+
+The COVID Tissue Atlas Consortium. (2022) [Comprehensive characterization of the transcriptional response to COVID-19 in multiple organs reveals shared signatures across tissues.](https://www.biorxiv.org/content/10.1101/2022.05.31.493925) *bioRxiv*.
+
+Yang Joon Kim, Kaitlin Rhee, __Jonathan Liu__, Selene Jeammet, Meghan A Turner, Stephen J Small, Hernan G Garcia. (2021) [Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental enhancer.](https://elifesciences.org/articles/73395) *eLife*.
 
 __Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2021) [Real-time single-cell characterization of the eukaryotic transcription cycle reveals correlations between RNA initiation, elongation, and cleavage.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008999) *PLoS Computational Biology*.
 
