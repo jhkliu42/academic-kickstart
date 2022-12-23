@@ -24,7 +24,7 @@ __Jonathan Liu\*__, Vanessa Tran*, Venkata Naga Pranathi Vemuri, Ashley Byrne, M
 
 The COVID Tissue Atlas Consortium. (2022) [Comprehensive characterization of the transcriptional response to COVID-19 in multiple organs reveals shared signatures across tissues.](https://www.biorxiv.org/content/10.1101/2022.05.31.493925) *bioRxiv*.
 
-Yang Joon Kim, Kaitlin Rhee, __Jonathan Liu__, Selene Jeammet, Meghan A Turner, Stephen J Small, Hernan G Garcia. (2021) [Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental enhancer.](https://elifesciences.org/articles/73395) *eLife*.
+Yang Joon Kim, Kaitlin Rhee, __Jonathan Liu__, Selene Jeammet, Meghan A Turner, Stephen J Small, Hernan G Garcia. (2022) [Predictive modeling reveals that higher-order cooperativity drives transcriptional repression in a synthetic developmental enhancer.](https://elifesciences.org/articles/73395) *eLife*.
 
 __Jonathan Liu__, Donald Hansen, Elizabeth Eck, Yang Joon Kim, Meghan A Turner, Simon Alamos, Hernan G Garcia. (2021) [Real-time single-cell characterization of the eukaryotic transcription cycle reveals correlations between RNA initiation, elongation, and cleavage.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008999) *PLoS Computational Biology*.
 
