@@ -9,9 +9,9 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Photo credits Chris Polydoroff (https://www.polydoroff.com/)"
-  image: "piano-bio-picture.jpg"
+#header:
+#  caption: "Photo credits Chris Polydoroff (https://www.polydoroff.com/)"
+#  image: "piano-bio-picture.jpg"
 ---
 
 Jonathan Liu is a collaborative pianist based in Berkeley, California specializing in vocal accompaniment. As an undergraduate at the California Institute of Technology, he performed in numerous chamber music groups under the tutelage of Robert Ward and Delores Bing, as well as in the Caltech Jazz Band led by Bill Bing and Barb Catlin. He was the winner of the 2015 Caltech-Occidental Symphony Concerto Competition, performing Ravel’s Piano Concerto in G Major with conductor Allen Gross.
