@@ -6,7 +6,9 @@ tags:
 date: "2020-12-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://berkeleysciencereview.com/2020/12/informational-interviewing/"
+external_link: "https://www.berkeleysciencereview.com/article/2020/12/15/the-ins-and-outs-of-informational-interviewing"
+
+
 
 image:
   caption:
