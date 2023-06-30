@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist II, Computational Biology
+role: Lead Computational Biology Data Scientist, Imaging
 
 # Organizations/Affiliations
 organizations:
-- name: Chan-Zuckerberg Biohub
-  url: "https://www.czbiohub.org"
+- name: insitro
+  url: "https://insitro.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist at the Chan-Zuckerberg Biohub. Spatial and single-cell biology, science communication and community, classical music. He/him/his.
+bio: Data scientist at insitro. Spatial and single-cell biology, science communication and community, music and dance. He/him/his.
 
 interests:
 - Spatial and single-cell biology
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jonathan.liu@czbiohub.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jhkliu42@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jhliu42
@@ -70,9 +70,11 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a computational biologist in the Quantitative Cell Sciences team of the data science platform at the [Chan Zuckerberg Biohub](https://www.czbiohub.org/) in San Francisco. There I use single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My current focus is on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo. I also have an interest in developing statistical analyses for single-cell atlas datasets. My broad research interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific instrumentation.
+I am a computational biologist at [insitro](https://insitro.com/). There I am part of the Data Science and Machine Learning team and focus on imaging-related efforts. My broad research interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific instrumentation.
 
-Before coming to the Biohub, I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
+Previously, I was a computational biologist at [Chan Zuckerberg Biohub SF](https://www.czbiohub.org/sf/). There I used single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My current focus is on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo.
+
+I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
 
 Check out my CV [here](files/cv.pdf) as well as my resume [here](files/resume.pdf). Please feel free to reach out if you'd like to connect or chat. I am also available for technical consultation for matters regarding single-cell and/or spatial biology.
 
@@ -82,7 +84,7 @@ Beyond my scientific life, I am an active [collaborative pianist](piano/) in the
 
 **Contact**
 
-jonathan dot liu at czbiohub dot org
+jhkliu42 at gmail dot com
 
 Twitter: [@jhliu42](https://twitter.com/jhliu42)
 
