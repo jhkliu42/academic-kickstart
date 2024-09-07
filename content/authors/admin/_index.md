@@ -70,7 +70,7 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a computational biologist at [insitro](https://insitro.com/), where I am part of the Data Science and Machine Learning team and focus on imaging-related efforts. My broad research interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific instrumentation.
+I am a data scientist at [insitro](https://insitro.com/), where I am part of the Computational Biology team. I focus on using classical and applied ML analysis techniques for imaging and sequencing-based high throughput screening efforts. My broad scientific interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific assays.
 
 Previously, I was a computational biologist at [Chan Zuckerberg Biohub SF](https://www.czbiohub.org/sf/). There I used single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My focus was on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo.
 
@@ -80,7 +80,7 @@ Check out my CV [here](files/cv.pdf) as well as my resume [here](files/resume.pd
 
 Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the [Berkeley Science Review](http://berkeleysciencereview.com/). For the past few years, I have also been involved with industry-academia connections, serving on the team of [Beyond Academia](https://beyondacademia.berkeley.edu/), a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year.
 
-Beyond my scientific life, I am an active [collaborative pianist](piano/) in the Bay Area. In my free time I enjoy reading speculative fiction, running, cooking, and social dancing.
+Beyond my scientific life, I am an active [collaborative pianist](piano/) in the Bay Area and also heavily involved with the social dancing community as a teacher and DJ.
 
 **Contact**
 
