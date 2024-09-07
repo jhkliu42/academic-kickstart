@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Data Scientist II"
-  company = "Chan Zuckerberg Biohub"
+  company = "Chan Zuckerberg Biohub SF"
   company_url = ""
   location = "San Francisco, California"
   date_start = "2023-01-01"
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "NDSEG Research Fellow"
+  title = "NDSEG Graduate Research Fellow"
   company = "Garcia Lab, UC Berkeley"
   company_url = ""
   location = "Berkeley, California"
@@ -68,7 +68,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Fulbright Scholar"
+  title = "U.S. Fulbright Student Scholar"
   company = "Braun Lab, LMU Munich"
   company_url = ""
   location = "Munich, Germany"
