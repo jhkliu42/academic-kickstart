@@ -38,32 +38,33 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Data Scientist, Computational Biology"
-  company = "Chan Zuckerberg Biohub"
+  title = "Data Scientist II"
+  title = "Data Scientist I
+  company = "Chan Zuckerberg Biohub SF"
   company_url = ""
   location = "San Francisco, California"
   date_start = "2021-08-16"
-  date_end = "2022-12-31"
+  date_end = "2023-06-02"
   description = """
   """
 
 [[experience]]
-  title = "Graduate Student Researcher"
+  title = "NDSEG Research Fellow"
   company = "Garcia Lab, UC Berkeley"
   company_url = ""
   location = "Berkeley, California"
   date_start = "2016-08-01"
   date_end = "2021-07-01"
-  description = """Funded by Department of Defense NDSEG fellowship.
+  description = """
   """
 
 [[experience]]
-  title = "Visiting Researcher"
+  title = "Fulbright Scholar"
   company = "Braun Lab, LMU Munich"
   company_url = ""
   location = "Munich, Germany"
   date_start = "2015-09-01"
   date_end = "2016-07-01"
-  description = """Funded by U.S. Fulbright Scholar program."""
+  description = """"""
 
 +++
