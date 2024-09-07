@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Data Scientist I
+  title = "Data Scientist I"
   company = "Chan Zuckerberg Biohub SF"
   company_url = ""
   location = "San Francisco, California"
