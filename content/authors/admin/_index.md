@@ -76,7 +76,7 @@ Previously, I was a computational biologist at [Chan Zuckerberg Biohub SF](https
 
 I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
 
-Check out my CV [here](files/cv.pdf) as well as my resume [here](files/resume.pdf). Please feel free to reach out if you'd like to connect or chat.
+Check out my resume [here](files/resume.pdf). Please feel free to reach out if you'd like to connect or chat.
 
 Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the [Berkeley Science Review](http://berkeleysciencereview.com/). For the past few years, I have also been involved with industry-academia connections, serving on the team of [Beyond Academia](https://beyondacademia.berkeley.edu/), a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year.
 
