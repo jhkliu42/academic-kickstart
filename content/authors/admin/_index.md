@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist
+role: Head of Data
 
 # Organizations/Affiliations
 organizations:
-- name: insitro
-  url: "https://insitro.com/"
+- name: Pioneer Labs
+  url: "https://www.pioneer-labs.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data scientist at insitro. Spatial and single-cell biology, science communication and community, music and dance. He/him/his.
+bio: Head of Data at Pioneer Labs. High-dimensional and high-throughput biology, science communication and community, music and dance.
 
 interests:
-- Spatial and single-cell biology
+- High-throughput biological screening
+- Synthetic biology
+- High-dimensional analysis
 - Statistical inference
 - Modeling
-- Computational image analysis
 
 education:
   courses:
