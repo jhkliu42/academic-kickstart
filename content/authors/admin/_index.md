@@ -71,9 +71,9 @@ user_groups:
 # - Researchers
 # - Visitors
 ---
-I am a data scientist at [insitro](https://insitro.com/), where I am part of the Computational Biology team. I focus on using classical and applied ML analysis techniques for imaging and sequencing-based high throughput screening efforts. My broad scientific interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific assays.
+I am Head of Data at [Pioneer Labs](https://www.pioneer-labs.org/), a nonprofit research startup engineering extremophile properties into microbes for potential Mars missions. I focus on using statistics and applied machine learning to develop analysis platforms for sequencing data collected at scale, aiding our goal of utilizing laboratory directed evolution to develop novel and useful new microbial strains for biomanufacturing. My broad scientific interests lie at the intersection of emerging technologies and the immediate data analysis, and I particularly enjoy working closely with experimentalists to maximize the investigatory power of cutting-edge scientific assays.
 
-Previously, I was a computational biologist at [Chan Zuckerberg Biohub SF](https://www.czbiohub.org/sf/). There I used single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My focus was on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo.
+Previously, I was a data scientist at [insitro](https://insitro.com/). There I used classical and applied ML analysis techniques for imaging and sequencing-based high throughput screening efforts for drug discovery. Before that, I was a computational biologist at [Chan Zuckerberg Biohub SF](https://www.czbiohub.org/sf/). There I used single-cell and spatial transcriptomics technologies to study the fundamental cell biology of development and infectious disease. My focus was on developing downstream analysis methods for imaging-based spatial transcriptomics to study systems such as the developing zebrafish embryo.
 
 I did my undergraduate studies in Applied Physics at Caltech and got a PhD in Physics at UC Berkeley, where I studied the biophysics of gene regulatory networks with [Hernan Garcia](http://garcialab.berkeley.edu/). There, I focused on developing statistical techniques and models to quantify biophysical parameters from eukaryotic transcriptional data acquired through live cell imaging. I also spent a year working in origins-of-life research with [Dieter Braun](https://www.biosystems.physik.uni-muenchen.de/) at the Ludwig Maximilian University in Munich, Germany, under the sponsorship of the U.S. Fulbright Student Fellowship. Although my background is in traditional physics, I have picked up a lot of familiarity with biology along the way and often inhabit the border between physics and biology, as well as between theory and experiment.
 
@@ -81,11 +81,11 @@ Check out my resume [here](files/resume.pdf). Please feel free to reach out if y
 
 Outside of research, I am deeply committed to science communication and community building. I have given numerous talks to wide range of audiences, both expert and nonexpert, and regularly write scientific articles for the [Berkeley Science Review](http://berkeleysciencereview.com/). For the past few years, I have also been involved with industry-academia connections, serving on the team of [Beyond Academia](https://beyondacademia.berkeley.edu/), a student-run organization at UC Berkeley that brings together hundreds of PhDs in industry every year.
 
-Beyond my scientific life, I am an active [collaborative pianist](piano/) in the Bay Area and also heavily involved with the social dancing community as a teacher and DJ.
+Beyond my scientific life, I am an active [collaborative pianist](piano/) in the Bay Area and also involved with the social dancing community as a teacher and DJ.
 
 **Contact**
 
-jhkliu42 at gmail dot com
+jonathan at pioneer-labs dot org
 
 Twitter: [@jhliu42](https://twitter.com/jhliu42)
 
